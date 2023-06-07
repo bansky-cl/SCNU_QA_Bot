@@ -4,9 +4,9 @@
 ### step1
 按照原仓库配置环境，可以见[安装指南](https://github.com/imClumsyPanda/langchain-ChatGLM/blob/master/docs/INSTALL.md)
 ### step2
-准备自己知识库，也就是很多txt文件组成的一个文件夹，新建一个data文件夹，把知识库文件夹放进去，例如`data/SCNU_KB_v4`
-激活环境，然后 执行 `python scnu_cli_demo.py`，然后提示输入知识库，就输入`data/SCNU_KB_v4`，这一步是创建向量库
-然后再vectorstore里面找到最新的那个向量库文件夹，默认名字应该是faiss开头很长的，改名为SCNU_KB_v4，方便后面使用
+- 准备自己知识库，也就是很多txt文件组成的一个文件夹，新建一个data文件夹，把知识库文件夹放进去，例如`data/SCNU_KB_v4`
+- 激活环境，然后 执行 `python scnu_cli_demo.py`，然后提示输入知识库，就输入`data/SCNU_KB_v4`，这一步是创建向量库   
+- 然后再vectorstore里面找到最新的那个向量库文件夹，默认名字应该是faiss开头很长的，改名为SCNU_KB_v4，方便后面使用   
 ### step3
 执行`python scnu_webui.py`，启动webui
 
