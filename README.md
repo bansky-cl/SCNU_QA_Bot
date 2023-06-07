@@ -19,7 +19,11 @@
 ## 效果图
 ### webui页面
 ![页面](img/pic1.png)
-### 提问'鳄雀鳝'
-![问答1](img/result1.png)
+### 提问'90周年'
+![问答3](img/result3.png)
+
 ### 提问 '异木棉'
 ![问答2](img/result2.png)
+
+### 提问'鳄雀鳝'
+![问答1](img/result1.png)
